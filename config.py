@@ -1,0 +1,10 @@
+sprout_url = 'SPROUT_URL'
+default_sprout_user = 'YOUR_USER'
+default_sprout_pass = 'YOUR_PASS!!'
+default_cfme_user = 'CFME_USER'
+default_cfme_pass = 'CFME_PASS'
+expiration_days = 7
+expiration_hours = 0
+default_provider_name = 'DEFAULT_PROVIDER_NAME'
+default_provider_hostname = 'DEFAULT_PROVIDER_HOSTNAME'
+default_token ='DEFAULT_TOKEN'
