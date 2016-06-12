@@ -25,8 +25,6 @@ if args.providerhostname is not None:
     print('Adding a ' + args.providerhostname + ' Provider Host Name')
 if args.sproutuser is not None:
     print('Logging with ' + args.sproutuser + ' user')
-# if args.sproutpass is not None:
-#     print('Logging with ' + args.sproutpass + ' password')
 
 if not args.providername:
     provider_name = default_provider_name
