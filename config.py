@@ -1,19 +1,10 @@
-sprout_url = 'http://10.16.4.94/appliances/my'
-default_sprout_user = 'pzagalsk'
-default_sprout_pass = 'Pp59aa!!'
-default_cfme_user = 'admin'
-default_cfme_pass = 'smartvm'
+sprout_url = 'SPROUT_URL'
+default_sprout_user = 'YOUR_USER'
+default_sprout_pass = 'YOUR_PASS!!'
+default_cfme_user = 'CFME_USER'
+default_cfme_pass = 'CFME_PASS'
 expiration_days = 7
 expiration_hours = 0
-default_provider_name = 'OpenShift'
-default_provider_hostname = 'pavel-openshift-master01.scl.lab.tlv.redhat.com'
-# default_provider_hostname = 'ep-ose32-master.scl.lab.tlv.redhat.com'
-default_token ='eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJrdWJlcm5ldGVzL3NlcnZpY2VhY2NvdW50Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9uYW1lc3BhY2UiOiJtYW5hZ2VtZW50LWluZnJhIiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9zZWNyZXQubmFtZSI6Im1hbmFnZW1lbnQtYWRtaW4tdG9rZW4taXA5cWUiLCJrdWJlcm5ldGVzLmlvL3NlcnZpY2VhY2NvdW50L3NlcnZpY2UtYWNjb3VudC5uYW1lIjoibWFuYWdlbWVudC1hZG1pbiIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VydmljZS1hY2NvdW50LnVpZCI6IjFkZDFlMzg2LTI4ZDYtMTFlNi05YzUyLTAwMWE0YTE2OTc3MCIsInN1YiI6InN5c3RlbTpzZXJ2aWNlYWNjb3VudDptYW5hZ2VtZW50LWluZnJhOm1hbmFnZW1lbnQtYWRtaW4ifQ.qw-0_JARDvoePnfwH89OHe7e85XN9GNxyizsc_G3JQ0MRN3AZWdMhMd0s1Jdu0VCrgcc6m4BZEbc2HX2I8RrYTszx5UoyJIlbxbErOfrb3X5bSsk_Oa4bQ0JGNKVrV6p2IJPgGpW1ElShewUWOTQRCn1zjNX4vEv_obwZ7gJZRd4CZTLJDaLBtRKSJiHuzUUOe7DDSSOo9P2ASJE7dreCsihNsGlVXgdmSmfcvoDmZsqLON-Fu2f1b4sEmX6bDU8GBzbYGliSZxDHBDvUadNf8mrSKWmKDa_Ojaf7D76hRl5Kl3z_V7a2ibKelKFL_JvTRbLVsGlp8WMdaEFO6Kd9g'
-
-
-
-
-
-
-
-
+default_provider_name = 'DEFAULT_PROVIDER_NAME'
+default_provider_hostname = 'DEFAULT_PROVIDER_HOSTNAME'
+default_token ='DEFAULT_TOKEN'
