@@ -185,7 +185,7 @@ click_element('//button[@alt=\'Add\'][2]','//a[@data-click="ems_container_vmdb_c
 # click_element("//a[contains(text(),'" + provider_name + "')]", "//a[contains(text()," + provider_name + ")]")
 # click_element('//button[@data-click="ems_container_vmdb_choice"]', '//a[@data-click="ems_container_vmdb_choice__ems_container_delete"]')
 # click_element('//a[@data-click="ems_container_vmdb_choice__ems_container_delete"]', )
-driver.switch_to.alert.accept()
+# driver.switch_to.alert.accept()
 # wait_until_element_loaded(('dropdownMenu2'))
 # assert is_element_exist("//strong[contains(text(),'Delete initiated')]")
 
